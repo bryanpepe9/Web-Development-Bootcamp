@@ -198,6 +198,33 @@ nav .my-logo {
 }
 
 
+/* Experience Section */
+.experience-container .job {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    flex-basis: 50%;
+    align-items: center;
+}
+
+.experience-container img {
+    width: 80%;
+    justify-self: center;
+}
+
+.experience-container h6 {
+    color: #a9a6a6;
+    font-weight: bold;
+}
+
+.large-number {
+    font-size: 60px;
+}
+
+
+
+
+
+
 
 /* Education Section */
 .education-title {
