@@ -1,0 +1,2 @@
+Hello Bryan!
+This file is going to be read and then logged on the console. 
